@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>CrazyCasino</label>
+		<id>11</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>CrazyCasino.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>CrazyCasino\CrazyCasino.jcp</path>
+		</project>
+	</projects>
+</workspace>
